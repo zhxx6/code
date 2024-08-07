@@ -1,0 +1,25 @@
+2024-07-28 00:53:47,851 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2024-07-28 00:53:50,854 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2024-07-28 00:53:53,858 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2024-07-28 00:53:53,858 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2024-07-28 00:53:53,947 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f92a43aeec0>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-28 00:53:53,950 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f92a43af280>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-28 00:53:53,952 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f92a43af070>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-28 00:53:53,955 - WARNING: Compute Engine Metadata server unavailable on attempt 4 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f92a43ae9b0>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-28 00:53:54,042 - WARNING: Compute Engine Metadata server unavailable on attempt 5 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f92a43af670>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-28 00:54:02,794 - INFO: 2019-09变量 geopotential_at_surface 一致
+2024-07-28 00:54:03,220 - INFO: 2019-09变量 land_sea_mask 一致
+2024-07-28 00:54:20,705 - INFO: 2019-09变量 toa_incident_solar_radiation 一致
+2024-07-28 01:02:21,696 - INFO: 2019-09变量 vertical_velocity 一致
+2024-07-28 01:02:27,787 - INFO: 2019-10变量 geopotential_at_surface 一致
+2024-07-28 01:02:28,073 - INFO: 2019-10变量 land_sea_mask 一致
+2024-07-28 01:02:46,982 - INFO: 2019-10变量 toa_incident_solar_radiation 一致
+2024-07-28 01:11:05,608 - INFO: 2019-10变量 vertical_velocity 一致
+2024-07-28 01:11:11,796 - INFO: 2019-11变量 geopotential_at_surface 一致
+2024-07-28 01:11:12,106 - INFO: 2019-11变量 land_sea_mask 一致
+2024-07-28 01:11:29,418 - INFO: 2019-11变量 toa_incident_solar_radiation 一致
+2024-07-28 01:19:27,323 - INFO: 2019-11变量 vertical_velocity 一致
+2024-07-28 01:19:32,984 - INFO: 2019-12变量 geopotential_at_surface 一致
+2024-07-28 01:19:33,294 - INFO: 2019-12变量 land_sea_mask 一致
+2024-07-28 01:19:52,013 - INFO: 2019-12变量 toa_incident_solar_radiation 一致
+2024-07-28 01:28:01,261 - INFO: 2019-12变量 vertical_velocity 一致

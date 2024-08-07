@@ -1,0 +1,92 @@
+2024-07-27 05:35:56,571 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2024-07-27 05:35:59,574 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2024-07-27 05:36:02,578 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2024-07-27 05:36:02,578 - WARNING: Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2024-07-27 05:36:02,710 - WARNING: Compute Engine Metadata server unavailable on attempt 1 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f6a1ea4efb0>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-27 05:36:02,713 - WARNING: Compute Engine Metadata server unavailable on attempt 2 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f6a1ea4f370>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-27 05:36:02,717 - WARNING: Compute Engine Metadata server unavailable on attempt 3 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f6a1ea4f160>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-27 05:36:02,719 - WARNING: Compute Engine Metadata server unavailable on attempt 4 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f6a1ea4eaa0>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-27 05:36:02,722 - WARNING: Compute Engine Metadata server unavailable on attempt 5 of 5. Reason: HTTPConnectionPool(host='metadata.google.internal', port=80): Max retries exceeded with url: /computeMetadata/v1/instance/service-accounts/default/?recursive=true (Caused by NameResolutionError("<urllib3.connection.HTTPConnection object at 0x7f6a1ea4f760>: Failed to resolve 'metadata.google.internal' ([Errno -2] Name or service not known)"))
+2024-07-27 05:36:14,890 - INFO: 2018-01变量 geopotential_at_surface 一致
+2024-07-27 05:36:18,045 - INFO: 2018-01变量 land_sea_mask 一致
+2024-07-27 05:36:38,837 - INFO: 2018-01变量 toa_incident_solar_radiation 一致
+2024-07-27 05:49:17,197 - INFO: 2018-01变量 vertical_velocity 一致
+2024-07-27 05:49:26,034 - INFO: 2018-02变量 geopotential_at_surface 一致
+2024-07-27 05:49:26,336 - INFO: 2018-02变量 land_sea_mask 一致
+2024-07-27 05:49:58,468 - INFO: 2018-02变量 toa_incident_solar_radiation 一致
+2024-07-27 06:14:25,771 - INFO: 2018-02变量 vertical_velocity 一致
+2024-07-27 06:14:36,485 - INFO: 2018-03变量 geopotential_at_surface 一致
+2024-07-27 06:14:37,810 - INFO: 2018-03变量 land_sea_mask 一致
+2024-07-27 06:15:33,131 - INFO: 2018-03变量 toa_incident_solar_radiation 一致
+2024-07-27 06:40:54,846 - INFO: 2018-03变量 vertical_velocity 一致
+2024-07-27 06:41:00,860 - INFO: 2018-04变量 geopotential_at_surface 一致
+2024-07-27 06:41:01,314 - INFO: 2018-04变量 land_sea_mask 一致
+2024-07-27 06:41:22,799 - INFO: 2018-04变量 toa_incident_solar_radiation 一致
+2024-07-27 07:09:57,872 - INFO: 2018-04变量 vertical_velocity 一致
+2024-07-27 07:10:07,150 - INFO: 2018-05变量 geopotential_at_surface 一致
+2024-07-27 07:10:07,828 - INFO: 2018-05变量 land_sea_mask 一致
+2024-07-27 07:10:52,489 - INFO: 2018-05变量 toa_incident_solar_radiation 一致
+2024-07-27 07:36:16,494 - INFO: 2018-05变量 vertical_velocity 一致
+2024-07-27 07:36:25,613 - INFO: 2018-06变量 geopotential_at_surface 一致
+2024-07-27 07:36:26,429 - INFO: 2018-06变量 land_sea_mask 一致
+2024-07-27 07:36:54,294 - INFO: 2018-06变量 toa_incident_solar_radiation 一致
+2024-07-27 08:01:02,208 - INFO: 2018-06变量 vertical_velocity 一致
+2024-07-27 08:01:09,570 - INFO: 2018-07变量 geopotential_at_surface 一致
+2024-07-27 08:01:09,853 - INFO: 2018-07变量 land_sea_mask 一致
+2024-07-27 08:01:52,065 - INFO: 2018-07变量 toa_incident_solar_radiation 一致
+2024-07-27 08:24:40,436 - INFO: 2018-07变量 vertical_velocity 一致
+2024-07-27 08:25:12,460 - INFO: 2018-08变量 geopotential_at_surface 一致
+2024-07-27 08:25:46,761 - INFO: 2018-08变量 land_sea_mask 一致
+2024-07-27 08:26:29,356 - INFO: 2018-08变量 toa_incident_solar_radiation 一致
+2024-07-27 08:54:38,865 - INFO: 2018-08变量 vertical_velocity 一致
+2024-07-27 08:54:46,815 - INFO: 2018-09变量 geopotential_at_surface 一致
+2024-07-27 08:54:47,107 - INFO: 2018-09变量 land_sea_mask 一致
+2024-07-27 08:55:19,237 - INFO: 2018-09变量 toa_incident_solar_radiation 一致
+2024-07-27 09:17:11,913 - INFO: 2018-09变量 vertical_velocity 一致
+2024-07-27 09:17:20,752 - INFO: 2018-10变量 geopotential_at_surface 一致
+2024-07-27 09:17:21,980 - INFO: 2018-10变量 land_sea_mask 一致
+2024-07-27 09:17:54,805 - INFO: 2018-10变量 toa_incident_solar_radiation 一致
+2024-07-27 09:39:36,253 - INFO: 2018-10变量 vertical_velocity 一致
+2024-07-27 09:39:43,823 - INFO: 2018-11变量 geopotential_at_surface 一致
+2024-07-27 09:39:45,130 - INFO: 2018-11变量 land_sea_mask 一致
+2024-07-27 09:40:32,593 - INFO: 2018-11变量 toa_incident_solar_radiation 一致
+2024-07-27 09:59:32,776 - INFO: 2018-11变量 vertical_velocity 一致
+2024-07-27 09:59:40,428 - INFO: 2018-12变量 geopotential_at_surface 一致
+2024-07-27 09:59:41,648 - INFO: 2018-12变量 land_sea_mask 一致
+2024-07-27 10:00:32,277 - INFO: 2018-12变量 toa_incident_solar_radiation 一致
+2024-07-27 10:16:08,464 - INFO: 2018-12变量 vertical_velocity 一致
+2024-07-27 10:16:16,882 - INFO: 2019-01变量 geopotential_at_surface 一致
+2024-07-27 10:16:17,191 - INFO: 2019-01变量 land_sea_mask 一致
+2024-07-27 10:16:47,800 - INFO: 2019-01变量 toa_incident_solar_radiation 一致
+2024-07-27 10:31:34,211 - INFO: 2019-01变量 vertical_velocity 一致
+2024-07-27 10:31:40,307 - INFO: 2019-02变量 geopotential_at_surface 一致
+2024-07-27 10:31:40,588 - INFO: 2019-02变量 land_sea_mask 一致
+2024-07-27 10:32:22,669 - INFO: 2019-02变量 toa_incident_solar_radiation 一致
+2024-07-27 10:51:04,694 - INFO: 2019-02变量 vertical_velocity 一致
+2024-07-27 10:51:12,269 - INFO: 2019-03变量 geopotential_at_surface 一致
+2024-07-27 10:51:12,720 - INFO: 2019-03变量 land_sea_mask 一致
+2024-07-27 10:51:58,651 - INFO: 2019-03变量 toa_incident_solar_radiation 一致
+2024-07-27 11:10:38,895 - INFO: 2019-03变量 vertical_velocity 一致
+2024-07-27 11:10:46,033 - INFO: 2019-04变量 geopotential_at_surface 一致
+2024-07-27 11:10:46,724 - INFO: 2019-04变量 land_sea_mask 一致
+2024-07-27 11:11:24,100 - INFO: 2019-04变量 toa_incident_solar_radiation 一致
+2024-07-27 11:30:54,761 - INFO: 2019-04变量 vertical_velocity 一致
+2024-07-27 11:31:03,551 - INFO: 2019-05变量 geopotential_at_surface 一致
+2024-07-27 11:31:03,835 - INFO: 2019-05变量 land_sea_mask 一致
+2024-07-27 11:31:39,822 - INFO: 2019-05变量 toa_incident_solar_radiation 一致
+2024-07-27 11:49:59,639 - INFO: 2019-05变量 vertical_velocity 一致
+2024-07-27 11:50:09,588 - INFO: 2019-06变量 geopotential_at_surface 一致
+2024-07-27 11:50:10,729 - INFO: 2019-06变量 land_sea_mask 一致
+2024-07-27 11:50:31,439 - INFO: 2019-06变量 toa_incident_solar_radiation 一致
+2024-07-27 12:10:30,073 - INFO: 2019-06变量 vertical_velocity 一致
+2024-07-27 12:10:39,160 - INFO: 2019-07变量 geopotential_at_surface 一致
+2024-07-27 12:10:39,983 - INFO: 2019-07变量 land_sea_mask 一致
+2024-07-27 12:11:30,738 - INFO: 2019-07变量 toa_incident_solar_radiation 一致
+2024-07-27 12:34:43,597 - INFO: 2019-07变量 vertical_velocity 一致
+2024-07-27 12:34:52,726 - INFO: 2019-08变量 geopotential_at_surface 一致
+2024-07-27 12:34:53,024 - INFO: 2019-08变量 land_sea_mask 一致
+2024-07-27 12:35:54,108 - INFO: 2019-08变量 toa_incident_solar_radiation 一致
+2024-07-27 13:05:42,125 - INFO: 2019-08变量 vertical_velocity 一致
+2024-07-27 13:05:52,340 - INFO: 2019-09变量 geopotential_at_surface 一致
+2024-07-27 13:05:53,093 - INFO: 2019-09变量 land_sea_mask 一致
+2024-07-27 13:06:55,109 - INFO: 2019-09变量 toa_incident_solar_radiation 一致
